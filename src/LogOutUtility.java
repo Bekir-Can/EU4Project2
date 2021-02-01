@@ -1,3 +1,3 @@
 public class LogOutUtility {
-    // The class logut utility
+    // The class logut utility awesome
 }
